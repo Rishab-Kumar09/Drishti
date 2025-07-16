@@ -121,12 +121,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built with Flutter's powerful camera capabilities
 - Powered by Google's ML Kit for object detection
 
-## 📞 Contact
 
-**Rishab Kumar** - [GitHub](https://github.com/Rishab-Kumar09)
-
-Project Link: [https://github.com/Rishab-Kumar09/Drishti](https://github.com/Rishab-Kumar09/Drishti)
-
----
-
-*Made with ❤️ and lots of ☕ in India*
